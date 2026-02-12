@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi 👋 I'm Sahithi Chitrala
 
-<!--
-**SahithiChitrala/SahithiChitrala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical & Electronics Engineer  
+⚡ Focused on Embedded Systems, Power Systems & Control Engineering  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+I am an Electrical & Electronics Engineering graduate passionate about building real-time embedded systems and solving practical engineering problems.
+
+I enjoy working at the intersection of hardware and software — translating theoretical concepts into working systems and simulations.
+
+---
+
+## 🛠 Technical Skills
+
+### 💻 Programming
+- C (Embedded C)
+- MATLAB
+- Python (Basics)
+
+### 🔧 Microcontrollers & Hardware
+- 8051
+- STM32
+- Arduino
+
+### 🧪 Tools & Software
+- Keil uVision
+- Proteus
+- MATLAB/Simulink
+- LTSpice
+- Git & GitHub
+
+### ⚡ Core Domains
+- Embedded Systems
+- Power Systems
+- Electrical Machines
+- Control Systems
+- Analog & Digital Electronics
+
+---
+
+## 🚀 Current Focus
+
+- Strengthening Embedded C & firmware development
+- Building documented hardware projects
+- Power system load analysis & simulation
+- Improving debugging & system design skills
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/hari-sahithi-chitrala-76a181228/
+- Email: sahithinarayana17@gmail.com
+
