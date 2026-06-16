@@ -52,6 +52,6 @@ I enjoy working at the intersection of hardware and software — translating the
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/hari-sahithi-chitrala-76a181228/
-- Email: sahithinarayana17@gmail.com
+- LinkedIn: https://www.linkedin.com/in/hari-sahithi-chitrala/
+- Email: sahichitrala@gmail.com
 
