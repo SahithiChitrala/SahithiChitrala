@@ -16,8 +16,8 @@ I enjoy working at the intersection of hardware and software — translating the
 ## 🛠 Technical Skills
 
 ### 💻 Programming
-- C (Embedded C)
 - MATLAB
+- C (Embedded C)
 - Python (Basics)
 
 ### 🔧 Microcontrollers & Hardware
