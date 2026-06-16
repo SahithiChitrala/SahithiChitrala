@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=SahithiChitrala&color=blue&style=flat-square)
 <h1 align="center">Hari Sahithi Chitrala</h1>
 <p align="center">
   EEE Graduate &nbsp;·&nbsp; AutoCAD Electrical &nbsp;·&nbsp; MATLAB/Simulink &nbsp;·&nbsp; Embedded Systems &nbsp;·&nbsp; Open to work
