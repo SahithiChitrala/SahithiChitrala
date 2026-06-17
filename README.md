@@ -53,7 +53,7 @@ Working prototype integrating a 16V/5W solar panel and 12V wind dynamo. Regulate
 ---
 
 ### 💻 Pantech Internship — Embedded Systems Programs
-~20 working programs across 4 modules:
+
 | Module | Focus |
 |---|---|
 | Embedded C Programming | GPIO, timers, interrupts, serial comms |
